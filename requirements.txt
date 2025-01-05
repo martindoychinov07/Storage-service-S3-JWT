@@ -1,5 +1,0 @@
-Flask==2.1.1
-minio==7.1.5
-requests==2.26.0
-pyjwt==2.4.0
-Werkzeug==2.1.1
